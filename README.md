@@ -1,2 +1,2 @@
 # ChatGPT discord bot
- LINE BOT
+ chatGPTのAPIを利用したdiscordBOT
